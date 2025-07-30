@@ -128,9 +128,13 @@ with tabs[0]:
     st.write("## How to Use")
     st.markdown(
         """
-        1. **Explore Data**: See salary analytics for all employees.
-        2. **Make a Prediction**: Enter details and get a monthly salary estimate.
-        3. **View Model Metrics**: Check model accuracy and diagnostics.
+        **How It Works**
+
+1. Analyze: Dive into rich salary analytics and see how age, experience, education, and roles affect pay.
+2. Predict: Get personalized salary estimates in just a few clicks for any combination of inputs.
+3. Evaluate: Review model accuracy with R², RMSE, and robust visual diagnostics.
+4. Enjoy a stylish, responsive interface designed for clarity and ease of use.
+
         """
     )
     df = predictor.load_and_preprocess_data()

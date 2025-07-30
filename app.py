@@ -35,8 +35,7 @@ with st.container():
         "margin-bottom:24px;border:2px solid #13c2c2;box-shadow:0 4px 16px #085c5c45;'>"
         "<h2 style='color:#13c2c2;margin-top:0;'>Employee Salary Predictor</h2>"
         "<p style='font-size:1.08rem;color:#e1f0ff;margin-bottom:.3em;'>"
-        "Predict employee salaries in Indian Rupees (INR) per month based on Age, Gender, Education Level, Job Title, and Experience using Machine Learning.
-.<br>"
+        "Predict employee salaries in Indian Rupees (INR) per month based on Age, Gender, Education Level, Job Title, and Experience using Machine Learning..<br>"
         
         "</p>"
         "</div>",

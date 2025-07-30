@@ -33,10 +33,11 @@ with st.container():
     st.markdown(
         "<div style='background-color:#222c36;border-radius:14px;padding:28px 32px 12px 32px;"
         "margin-bottom:24px;border:2px solid #13c2c2;box-shadow:0 4px 16px #085c5c45;'>"
-        "<h2 style='color:#13c2c2;margin-top:0;'>🌙 Employee Salary Predictor</h2>"
+        "<h2 style='color:#13c2c2;margin-top:0;'>Employee Salary Predictor</h2>"
         "<p style='font-size:1.08rem;color:#e1f0ff;margin-bottom:.3em;'>"
-        "Accurately estimate monthly salaries for Indian staff based on age, gender, education, role, and experience.<br>"
-        "<span style='color:#8fe8e8;'>Fast analytics ✓ | User-friendly UI ✓ | No data upload required</span>"
+        "Predict employee salaries in Indian Rupees (INR) per month based on Age, Gender, Education Level, Job Title, and Experience using Machine Learning.
+.<br>"
+        
         "</p>"
         "</div>",
         unsafe_allow_html=True

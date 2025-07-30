@@ -20,7 +20,7 @@ This project is a Machine Learning application designed to predict employee mont
 
 **Access the deployed app at:**
 
-https://
+https://employee-salaryprediction.streamlit.app/
 
 **Project Structure**
 

@@ -1,0 +1,1001 @@
+Age,Gender,Years of Experience,Education Level,Job Title,Salary_INR
+50,Male,27,High School,Web Developer,134621.0
+36,Male,14,Bachelor's,Analyst,107035.0
+29,Female,11,Bachelor's,Analyst,84808.0
+42,Female,20,Master's,Manager,205658.0
+40,Female,18,High School,Web Developer,93348.0
+44,Female,21,Bachelor's,Manager,189497.0
+32,Male,12,Bachelor's,Analyst,79955.0
+32,Female,13,Bachelor's,Team Lead,105692.0
+45,Female,27,High School,Manager,146733.0
+57,Male,34,Bachelor's,HR,196395.0
+45,Male,25,Bachelor's,Team Lead,179060.0
+24,Female,0,Bachelor's,Manager,93824.0
+43,Female,24,Bachelor's,Sales Executive,147238.0
+23,Male,4,Master's,Manager,148705.0
+45,Female,22,Master's,Sales Executive,129158.0
+51,Male,30,Bachelor's,Web Developer,168581.0
+59,Male,41,Master's,Analyst,256549.0
+23,Male,4,Bachelor's,Team Lead,76792.0
+42,Male,19,High School,Team Lead,108910.0
+54,Female,31,High School,Data Scientist,179406.0
+33,Male,13,Bachelor's,Data Scientist,104221.0
+43,Male,19,Master's,Analyst,147303.0
+46,Female,25,Master's,Data Scientist,213339.0
+48,Male,30,Master's,Team Lead,228933.0
+49,Female,27,Bachelor's,Manager,191947.0
+37,Female,13,Bachelor's,Web Developer,85345.0
+36,Female,12,Diploma,Web Developer,58178.0
+24,Male,4,Bachelor's,Analyst,63122.0
+58,Female,39,Bachelor's,Data Scientist,221945.0
+28,Female,9,High School,Manager,63743.0
+42,Male,22,Diploma,Web Developer,116955.0
+30,Female,7,Bachelor's,Web Developer,67086.0
+39,Female,20,Master's,HR,123425.0
+25,Female,4,PhD,HR,80235.0
+46,Female,28,PhD,Team Lead,242298.0
+35,Female,11,Bachelor's,Web Developer,69906.0
+30,Male,6,Bachelor's,Analyst,59999.0
+47,Female,26,Bachelor's,Sales Executive,149088.0
+23,Female,4,Master's,Sales Executive,55569.0
+41,Male,17,Diploma,Manager,107936.0
+49,Male,27,Bachelor's,Web Developer,169558.0
+28,Male,10,Master's,Web Developer,87301.0
+29,Female,11,Bachelor's,Team Lead,99270.0
+56,Male,32,Bachelor's,Web Developer,176887.0
+35,Female,15,Bachelor's,Analyst,112741.0
+38,Female,14,Diploma,HR,65785.0
+57,Male,37,Bachelor's,Web Developer,228342.0
+25,Male,1,Bachelor's,Web Developer,47889.0
+23,Female,1,High School,Team Lead,30393.0
+27,Male,4,High School,Data Scientist,41639.0
+25,Female,7,Master's,Team Lead,113915.0
+50,Male,26,Bachelor's,Team Lead,165118.0
+39,Male,17,Bachelor's,Analyst,120701.0
+47,Male,27,Bachelor's,Manager,215466.0
+55,Female,35,PhD,Web Developer,255523.0
+31,Male,13,Bachelor's,Team Lead,104628.0
+57,Female,36,Bachelor's,Team Lead,231383.0
+35,Female,11,Master's,Data Scientist,135842.0
+52,Female,33,Master's,Team Lead,238334.0
+36,Female,16,Diploma,Sales Executive,76640.0
+29,Male,6,Master's,Manager,131321.0
+35,Female,12,Bachelor's,Web Developer,75046.0
+44,Female,24,Bachelor's,Web Developer,154356.0
+42,Male,21,Diploma,Data Scientist,123776.0
+37,Female,16,High School,Analyst,88398.0
+39,Male,17,Master's,Web Developer,123471.0
+45,Female,22,Bachelor's,Sales Executive,129937.0
+47,Male,25,Bachelor's,Web Developer,141363.0
+46,Female,23,Master's,Sales Executive,141203.0
+50,Male,26,Master's,Manager,226564.0
+36,Female,12,Diploma,Manager,91075.0
+22,Female,3,Bachelor's,HR,42541.0
+46,Male,22,Diploma,HR,124005.0
+28,Male,9,Master's,Sales Executive,77266.0
+30,Male,6,Master's,Analyst,80926.0
+45,Male,27,PhD,Web Developer,187743.0
+22,Female,0,High School,Team Lead,29309.0
+29,Female,7,High School,Web Developer,37303.0
+45,Male,25,Bachelor's,HR,149923.0
+32,Female,10,Bachelor's,Team Lead,106299.0
+38,Male,18,Diploma,Sales Executive,80979.0
+29,Male,8,PhD,Team Lead,171381.0
+56,Female,34,Diploma,Web Developer,177519.0
+56,Female,35,Bachelor's,Web Developer,206809.0
+54,Female,35,Master's,Analyst,231789.0
+26,Female,7,Bachelor's,Data Scientist,87032.0
+49,Female,31,Master's,Team Lead,246232.0
+28,Female,4,High School,HR,22651.0
+30,Female,8,Bachelor's,HR,61380.0
+29,Male,8,High School,Data Scientist,46228.0
+33,Male,13,High School,Web Developer,64370.0
+55,Male,36,PhD,Analyst,263050.0
+54,Male,30,Diploma,Analyst,162194.0
+44,Male,25,Bachelor's,HR,154071.0
+45,Female,25,Bachelor's,Analyst,167178.0
+58,Male,34,Bachelor's,Manager,259168.0
+56,Male,32,Master's,Data Scientist,237942.0
+43,Male,22,High School,Web Developer,114002.0
+48,Male,27,Master's,Manager,248300.0
+56,Male,34,PhD,Data Scientist,315650.0
+22,Male,0,Bachelor's,Sales Executive,34633.0
+56,Male,33,PhD,Team Lead,325884.0
+58,Female,35,High School,HR,189223.0
+35,Female,17,Bachelor's,Analyst,118607.0
+24,Male,5,Bachelor's,Sales Executive,44120.0
+22,Female,0,Master's,Analyst,66744.0
+26,Female,5,PhD,Manager,220812.0
+47,Female,27,Bachelor's,Web Developer,147371.0
+35,Female,14,Master's,Web Developer,118949.0
+48,Male,29,Diploma,Web Developer,152322.0
+30,Female,7,Bachelor's,Analyst,65754.0
+36,Female,15,Bachelor's,Sales Executive,95375.0
+36,Female,18,PhD,Web Developer,164476.0
+47,Male,28,Bachelor's,Sales Executive,158000.0
+34,Male,11,Bachelor's,Analyst,82655.0
+53,Male,33,Diploma,Manager,197779.0
+53,Male,30,Diploma,Sales Executive,161842.0
+25,Male,1,Diploma,Manager,55687.0
+51,Male,33,Bachelor's,Analyst,214241.0
+58,Male,39,Master's,Analyst,270515.0
+44,Female,24,Bachelor's,HR,132058.0
+36,Female,18,Bachelor's,Analyst,123770.0
+50,Female,27,Diploma,Analyst,148383.0
+57,Male,39,Master's,Data Scientist,264428.0
+34,Male,15,Master's,Web Developer,127829.0
+53,Male,31,High School,HR,137246.0
+28,Male,10,Master's,Team Lead,122311.0
+43,Male,19,Bachelor's,HR,111230.0
+49,Female,31,High School,HR,153277.0
+23,Female,0,Bachelor's,Team Lead,72050.0
+27,Male,4,Bachelor's,Data Scientist,78319.0
+49,Male,29,Diploma,Manager,187287.0
+49,Male,26,PhD,Analyst,220378.0
+41,Male,20,Master's,Web Developer,128458.0
+51,Female,32,Master's,Sales Executive,187172.0
+32,Male,13,Bachelor's,Team Lead,106444.0
+49,Male,27,Bachelor's,Manager,196194.0
+46,Male,24,Master's,Team Lead,204184.0
+54,Male,35,Bachelor's,Analyst,193317.0
+22,Female,0,High School,Data Scientist,28646.0
+48,Male,26,Bachelor's,Team Lead,170405.0
+34,Male,14,Master's,Analyst,131061.0
+24,Female,1,Bachelor's,Analyst,56322.0
+27,Female,8,High School,Data Scientist,51400.0
+29,Female,7,Master's,HR,77864.0
+48,Male,29,Diploma,HR,157712.0
+30,Male,9,Bachelor's,Web Developer,68356.0
+58,Female,40,Diploma,Web Developer,187913.0
+54,Female,31,Bachelor's,HR,183142.0
+45,Female,26,Master's,Manager,252808.0
+36,Female,18,Bachelor's,Sales Executive,106003.0
+53,Female,31,Diploma,Analyst,176116.0
+53,Female,35,Master's,Sales Executive,208360.0
+45,Male,22,Master's,Analyst,168268.0
+33,Male,14,Master's,HR,110962.0
+23,Male,2,Diploma,Web Developer,29621.0
+24,Female,0,Bachelor's,Manager,95549.0
+58,Female,36,PhD,Web Developer,253231.0
+38,Female,19,Master's,Sales Executive,129188.0
+23,Female,0,High School,Web Developer,20749.0
+23,Female,1,High School,HR,16638.0
+49,Female,29,Bachelor's,Manager,223565.0
+44,Male,26,PhD,Sales Executive,174174.0
+58,Male,34,Bachelor's,Manager,251575.0
+53,Female,30,Bachelor's,Analyst,179231.0
+54,Male,34,Diploma,Web Developer,188956.0
+22,Female,3,Master's,Manager,126439.0
+40,Male,19,Master's,Data Scientist,174370.0
+23,Female,1,Bachelor's,Web Developer,43120.0
+47,Female,29,Master's,Analyst,212466.0
+53,Male,31,PhD,Manager,360123.0
+27,Male,3,Diploma,Sales Executive,29592.0
+53,Female,34,Bachelor's,Analyst,213841.0
+25,Female,3,Bachelor's,Data Scientist,75064.0
+32,Male,14,Master's,Manager,169190.0
+38,Male,19,Bachelor's,Team Lead,139043.0
+59,Female,37,Bachelor's,Team Lead,235915.0
+45,Male,24,Master's,HR,162491.0
+26,Female,3,Bachelor's,Web Developer,52605.0
+55,Female,36,PhD,Sales Executive,221284.0
+27,Female,4,Bachelor's,HR,49282.0
+43,Female,24,Diploma,Manager,162997.0
+32,Male,11,Master's,Team Lead,137410.0
+37,Male,14,Master's,Team Lead,140348.0
+54,Male,34,Bachelor's,Team Lead,201163.0
+30,Male,12,Master's,Manager,172081.0
+27,Male,7,PhD,Team Lead,172807.0
+37,Male,15,Bachelor's,Analyst,96173.0
+50,Male,29,PhD,Manager,323619.0
+24,Female,4,Diploma,Sales Executive,32155.0
+41,Male,22,Diploma,HR,120281.0
+57,Male,35,Diploma,Sales Executive,194768.0
+40,Female,18,Master's,Data Scientist,159961.0
+47,Male,27,Master's,Team Lead,209094.0
+24,Male,4,Diploma,Data Scientist,52007.0
+40,Female,19,Bachelor's,Web Developer,115295.0
+41,Male,23,Bachelor's,Web Developer,125777.0
+53,Male,33,High School,Data Scientist,167982.0
+28,Male,4,Master's,Manager,138084.0
+54,Female,34,Master's,Sales Executive,193700.0
+39,Male,16,Bachelor's,Data Scientist,119869.0
+22,Male,3,PhD,Web Developer,93247.0
+32,Female,8,Bachelor's,Data Scientist,78417.0
+49,Male,25,PhD,Manager,307671.0
+46,Female,23,Master's,Data Scientist,194555.0
+44,Female,21,Bachelor's,Sales Executive,122944.0
+52,Male,30,Diploma,HR,143902.0
+51,Female,33,Master's,Manager,266771.0
+56,Female,37,Bachelor's,Web Developer,215929.0
+28,Male,7,Diploma,Sales Executive,40087.0
+37,Female,13,High School,Data Scientist,72169.0
+47,Female,26,Bachelor's,Data Scientist,170702.0
+23,Male,3,Bachelor's,HR,45799.0
+22,Male,2,Master's,Web Developer,64203.0
+33,Male,12,Master's,Web Developer,99315.0
+26,Female,6,High School,Analyst,37879.0
+58,Male,40,Master's,Web Developer,248093.0
+53,Female,30,Diploma,HR,148935.0
+30,Female,10,Master's,Team Lead,127307.0
+56,Female,34,Master's,Analyst,237639.0
+40,Female,20,Bachelor's,Analyst,122412.0
+37,Female,18,Master's,Data Scientist,152173.0
+24,Female,6,Bachelor's,Data Scientist,77414.0
+41,Female,22,Bachelor's,Web Developer,142404.0
+45,Male,26,Master's,Analyst,166271.0
+54,Male,32,Bachelor's,Data Scientist,229061.0
+45,Female,27,Bachelor's,HR,153682.0
+32,Female,14,Bachelor's,Data Scientist,125560.0
+29,Male,11,Master's,Manager,179693.0
+57,Female,39,Bachelor's,Manager,266157.0
+59,Male,41,Diploma,Data Scientist,214694.0
+41,Male,19,Master's,Analyst,135375.0
+56,Male,36,Master's,Team Lead,249729.0
+46,Female,27,Diploma,Team Lead,166193.0
+56,Female,38,Diploma,Analyst,193555.0
+46,Male,22,Diploma,Sales Executive,107296.0
+50,Male,30,Bachelor's,Team Lead,199060.0
+39,Male,19,Bachelor's,Manager,179249.0
+39,Male,20,Master's,HR,124082.0
+23,Male,1,Master's,Analyst,66202.0
+56,Female,35,Bachelor's,Web Developer,181570.0
+37,Male,16,Bachelor's,Manager,162018.0
+57,Female,37,Master's,HR,228111.0
+54,Male,31,Bachelor's,HR,164846.0
+25,Female,2,PhD,Analyst,101743.0
+54,Female,35,Bachelor's,HR,185519.0
+35,Female,14,Diploma,Analyst,72122.0
+42,Female,22,Master's,Team Lead,209347.0
+41,Female,19,Bachelor's,Data Scientist,148290.0
+29,Female,8,Master's,Manager,151767.0
+28,Male,8,High School,Sales Executive,38986.0
+24,Female,4,Diploma,Data Scientist,46782.0
+38,Male,20,Master's,Manager,220925.0
+54,Female,32,Diploma,Analyst,185087.0
+33,Female,15,Master's,Manager,179612.0
+43,Male,24,Bachelor's,Team Lead,179301.0
+43,Female,25,Bachelor's,Analyst,147745.0
+51,Male,27,Master's,Data Scientist,202436.0
+59,Male,41,Bachelor's,Web Developer,212165.0
+59,Male,35,Bachelor's,Web Developer,197661.0
+29,Male,8,Diploma,Manager,81245.0
+48,Female,25,High School,Web Developer,135740.0
+48,Female,28,Bachelor's,Analyst,173774.0
+55,Male,31,Master's,HR,204604.0
+42,Female,20,PhD,Analyst,197193.0
+51,Female,33,Master's,HR,186560.0
+54,Male,30,Master's,Data Scientist,226351.0
+49,Female,27,Master's,Sales Executive,152725.0
+54,Male,31,Master's,HR,197329.0
+26,Male,3,Bachelor's,Web Developer,52962.0
+40,Female,22,PhD,Analyst,180030.0
+25,Female,6,Master's,Data Scientist,116022.0
+56,Female,38,Bachelor's,Web Developer,221837.0
+38,Male,17,Diploma,Data Scientist,106369.0
+49,Male,25,Bachelor's,Sales Executive,136629.0
+51,Female,31,Bachelor's,Team Lead,200114.0
+50,Female,31,Master's,Analyst,188085.0
+27,Female,9,Bachelor's,Manager,108062.0
+56,Female,34,Bachelor's,Analyst,180601.0
+58,Male,39,PhD,Sales Executive,256808.0
+45,Female,21,Diploma,Analyst,105338.0
+50,Male,31,Bachelor's,Manager,245171.0
+52,Male,28,High School,HR,137639.0
+56,Female,38,Master's,Data Scientist,279980.0
+54,Female,30,PhD,Manager,318871.0
+42,Female,23,Bachelor's,Web Developer,139566.0
+53,Male,31,Master's,Sales Executive,204502.0
+44,Female,21,Bachelor's,HR,110465.0
+54,Female,35,PhD,Web Developer,236361.0
+24,Male,0,Master's,Web Developer,67087.0
+39,Female,16,Master's,Sales Executive,99740.0
+46,Male,22,High School,HR,96274.0
+52,Female,30,PhD,Team Lead,272576.0
+24,Male,0,Master's,Web Developer,57872.0
+45,Female,27,Bachelor's,Web Developer,161454.0
+53,Female,33,Master's,HR,188804.0
+43,Male,24,Bachelor's,Analyst,161732.0
+44,Male,24,Master's,Web Developer,172411.0
+23,Female,0,Diploma,Data Scientist,43357.0
+48,Male,26,Master's,HR,168065.0
+23,Male,4,Bachelor's,Web Developer,55438.0
+47,Male,23,High School,Sales Executive,103586.0
+38,Male,15,Diploma,Manager,118380.0
+54,Female,33,High School,Data Scientist,186854.0
+30,Female,6,Bachelor's,Manager,111101.0
+50,Male,30,Bachelor's,Manager,224917.0
+47,Male,28,Bachelor's,Web Developer,155007.0
+56,Male,36,Bachelor's,Data Scientist,224588.0
+46,Male,27,Bachelor's,Data Scientist,192750.0
+45,Female,21,Master's,Analyst,140642.0
+34,Female,16,High School,Manager,104805.0
+28,Male,5,PhD,Data Scientist,143982.0
+57,Male,33,Master's,Analyst,202063.0
+41,Male,21,Master's,HR,126789.0
+22,Female,1,Bachelor's,Analyst,46332.0
+29,Male,8,Master's,Sales Executive,71909.0
+37,Female,15,Diploma,Team Lead,90956.0
+35,Male,16,High School,Web Developer,85387.0
+33,Female,13,Diploma,HR,66552.0
+44,Male,22,Master's,Team Lead,176798.0
+36,Female,16,High School,Team Lead,93120.0
+49,Male,30,Bachelor's,HR,182092.0
+55,Male,31,PhD,Sales Executive,221796.0
+23,Male,0,Master's,Analyst,65898.0
+53,Female,32,Bachelor's,Web Developer,200059.0
+44,Male,20,High School,Analyst,107263.0
+43,Female,19,Master's,Data Scientist,157556.0
+46,Female,28,Bachelor's,Analyst,153918.0
+43,Male,22,Diploma,HR,113682.0
+43,Male,21,High School,Web Developer,95854.0
+27,Male,4,PhD,Analyst,121940.0
+36,Female,18,Master's,Web Developer,127517.0
+58,Male,36,Master's,Web Developer,244713.0
+54,Female,35,Master's,Data Scientist,256548.0
+29,Female,11,Bachelor's,Data Scientist,91683.0
+26,Male,4,Bachelor's,HR,41791.0
+25,Male,6,Bachelor's,Sales Executive,50199.0
+27,Male,6,Bachelor's,Team Lead,89456.0
+53,Male,30,Bachelor's,Web Developer,184573.0
+51,Male,32,Master's,Sales Executive,183075.0
+56,Male,32,Bachelor's,Team Lead,198399.0
+37,Female,17,Master's,Team Lead,148550.0
+34,Female,15,Bachelor's,HR,93370.0
+51,Female,32,Bachelor's,Team Lead,192683.0
+40,Male,17,Bachelor's,Team Lead,131400.0
+38,Female,18,Bachelor's,Web Developer,114205.0
+40,Female,16,Master's,Web Developer,132249.0
+49,Female,27,Diploma,Manager,165268.0
+47,Female,25,Bachelor's,Sales Executive,132476.0
+58,Female,39,Diploma,Analyst,215320.0
+47,Male,27,Bachelor's,Data Scientist,186058.0
+44,Male,24,Bachelor's,Analyst,143940.0
+30,Female,6,Master's,Sales Executive,71227.0
+33,Female,10,PhD,Data Scientist,180213.0
+22,Female,1,Bachelor's,Analyst,48474.0
+22,Male,0,Master's,Manager,125381.0
+55,Male,32,Bachelor's,Data Scientist,208020.0
+53,Female,35,Bachelor's,Web Developer,211786.0
+46,Male,24,High School,Analyst,110038.0
+22,Male,0,Bachelor's,Data Scientist,69282.0
+37,Female,15,Bachelor's,Manager,148557.0
+26,Male,5,Bachelor's,Team Lead,77003.0
+43,Male,25,High School,Data Scientist,139631.0
+50,Female,29,Diploma,Data Scientist,182463.0
+24,Male,0,Bachelor's,Manager,82746.0
+33,Male,15,PhD,Team Lead,195063.0
+47,Female,28,Bachelor's,Analyst,167816.0
+37,Male,14,Bachelor's,HR,91919.0
+58,Male,40,Diploma,Analyst,234619.0
+43,Female,19,Bachelor's,Team Lead,142337.0
+50,Female,26,Bachelor's,Sales Executive,152753.0
+35,Female,14,Diploma,Manager,105220.0
+49,Male,27,Bachelor's,Analyst,166157.0
+26,Female,8,High School,Data Scientist,47874.0
+51,Male,28,High School,Manager,151646.0
+26,Female,8,Diploma,Web Developer,45446.0
+33,Male,13,High School,Team Lead,74825.0
+37,Female,15,Diploma,Analyst,75381.0
+47,Female,24,Bachelor's,Manager,207281.0
+47,Female,24,Master's,Analyst,159220.0
+42,Female,23,Bachelor's,Manager,174648.0
+57,Male,36,Bachelor's,Data Scientist,229163.0
+54,Female,35,Bachelor's,Web Developer,209098.0
+51,Female,28,PhD,Web Developer,194730.0
+58,Male,36,Bachelor's,Sales Executive,189480.0
+44,Female,26,High School,Manager,165865.0
+31,Male,13,Bachelor's,Analyst,87413.0
+26,Female,4,Diploma,Web Developer,33712.0
+57,Female,34,Bachelor's,Team Lead,237845.0
+55,Female,31,Bachelor's,Web Developer,162331.0
+52,Male,34,Master's,HR,204069.0
+31,Female,7,Bachelor's,HR,53210.0
+40,Female,22,Master's,Web Developer,146349.0
+53,Female,35,PhD,Manager,335088.0
+22,Male,1,Diploma,Sales Executive,21615.0
+26,Male,5,Bachelor's,Web Developer,52461.0
+25,Female,5,Bachelor's,Data Scientist,69991.0
+37,Male,18,Bachelor's,Analyst,125056.0
+45,Female,23,Bachelor's,Sales Executive,126692.0
+37,Female,15,PhD,Data Scientist,191658.0
+23,Female,1,Master's,Sales Executive,57231.0
+49,Female,29,Bachelor's,Data Scientist,198295.0
+53,Female,32,Bachelor's,Analyst,170980.0
+48,Female,25,Master's,Analyst,193488.0
+41,Female,17,PhD,HR,134558.0
+45,Male,21,Master's,Manager,198460.0
+33,Male,10,High School,Data Scientist,59675.0
+56,Male,36,Bachelor's,HR,199180.0
+54,Male,31,High School,Data Scientist,163351.0
+54,Male,32,Bachelor's,HR,168909.0
+58,Male,39,High School,Analyst,201790.0
+33,Male,15,Bachelor's,Sales Executive,83686.0
+24,Female,0,Master's,Team Lead,111255.0
+22,Female,1,Diploma,HR,23456.0
+54,Female,33,Bachelor's,Data Scientist,229972.0
+31,Female,11,Bachelor's,Data Scientist,99515.0
+50,Male,29,Bachelor's,Team Lead,209662.0
+34,Male,12,Diploma,Manager,98358.0
+33,Female,9,Bachelor's,Analyst,76371.0
+52,Female,29,Master's,Data Scientist,213589.0
+23,Male,1,High School,Web Developer,20022.0
+56,Female,36,High School,Sales Executive,166768.0
+44,Female,22,Bachelor's,HR,135908.0
+38,Female,15,PhD,Manager,263742.0
+47,Female,28,Master's,Team Lead,219865.0
+29,Male,9,Master's,Sales Executive,68865.0
+50,Female,31,Bachelor's,Analyst,181016.0
+47,Female,29,Bachelor's,Manager,222314.0
+31,Male,12,High School,HR,53249.0
+47,Male,29,Bachelor's,HR,172407.0
+55,Female,37,PhD,Team Lead,350590.0
+28,Male,9,Bachelor's,Web Developer,62697.0
+25,Female,5,Master's,Team Lead,112496.0
+32,Female,9,Master's,Analyst,94386.0
+50,Male,28,Diploma,Manager,169987.0
+57,Female,35,PhD,Manager,328584.0
+46,Female,23,High School,Data Scientist,112673.0
+42,Female,18,Bachelor's,Web Developer,120955.0
+57,Female,33,Diploma,Web Developer,170480.0
+31,Male,13,High School,Manager,83249.0
+58,Male,40,Bachelor's,Manager,298210.0
+30,Female,10,Bachelor's,Sales Executive,65497.0
+45,Male,24,Bachelor's,Sales Executive,124153.0
+56,Female,37,Bachelor's,Sales Executive,205079.0
+56,Female,38,High School,Web Developer,189433.0
+57,Female,35,Diploma,Data Scientist,210576.0
+39,Female,19,Bachelor's,HR,116014.0
+53,Female,34,Bachelor's,Sales Executive,194199.0
+45,Male,25,Master's,Data Scientist,194251.0
+44,Female,25,Master's,Team Lead,220422.0
+53,Male,34,Master's,Analyst,202522.0
+58,Male,35,Master's,Sales Executive,192830.0
+33,Female,15,Bachelor's,Team Lead,118955.0
+34,Female,14,Master's,HR,92512.0
+44,Female,24,Bachelor's,Analyst,140874.0
+46,Female,23,Bachelor's,Analyst,154100.0
+56,Female,34,Master's,HR,225104.0
+51,Male,29,Bachelor's,Sales Executive,154038.0
+38,Female,14,Master's,Web Developer,105144.0
+41,Female,23,Master's,HR,141498.0
+46,Male,28,Master's,HR,166207.0
+43,Male,22,PhD,HR,151941.0
+34,Female,11,Bachelor's,Analyst,89013.0
+40,Male,18,Bachelor's,Data Scientist,126523.0
+57,Female,38,Bachelor's,Team Lead,238731.0
+33,Male,13,Bachelor's,Web Developer,76901.0
+40,Male,22,Bachelor's,Sales Executive,133691.0
+33,Female,13,Master's,Sales Executive,97959.0
+30,Male,10,Master's,Team Lead,141261.0
+28,Male,7,Bachelor's,Data Scientist,88707.0
+49,Male,27,Diploma,HR,132869.0
+35,Male,17,Bachelor's,Web Developer,100915.0
+52,Male,32,Diploma,Sales Executive,169838.0
+40,Male,22,Master's,Team Lead,185960.0
+37,Female,18,Bachelor's,Manager,161876.0
+26,Female,5,Diploma,Team Lead,49363.0
+56,Male,37,High School,Sales Executive,165887.0
+33,Female,15,Bachelor's,HR,90633.0
+46,Female,22,Bachelor's,Manager,182962.0
+42,Female,24,Bachelor's,Data Scientist,174703.0
+57,Male,35,High School,Web Developer,162460.0
+44,Female,24,Bachelor's,Data Scientist,166343.0
+37,Male,17,Bachelor's,Data Scientist,121111.0
+35,Female,16,Master's,Team Lead,146473.0
+52,Male,31,Bachelor's,Web Developer,176003.0
+26,Male,2,Bachelor's,Web Developer,43467.0
+56,Female,33,Diploma,Sales Executive,158320.0
+44,Female,24,PhD,Sales Executive,167727.0
+50,Male,28,Bachelor's,Web Developer,155463.0
+32,Female,13,Master's,Manager,159572.0
+39,Female,20,Diploma,Analyst,100202.0
+33,Female,10,Bachelor's,Sales Executive,57865.0
+30,Male,8,High School,Analyst,38680.0
+31,Male,10,Bachelor's,Team Lead,99841.0
+38,Female,16,PhD,Manager,240854.0
+59,Female,38,Bachelor's,Web Developer,205745.0
+28,Female,6,High School,Manager,53261.0
+34,Male,12,High School,Sales Executive,54651.0
+30,Male,12,Bachelor's,Data Scientist,111593.0
+48,Female,29,Diploma,Team Lead,178811.0
+23,Female,1,High School,Web Developer,22237.0
+26,Female,3,Master's,HR,58773.0
+50,Female,28,Bachelor's,Team Lead,198664.0
+58,Female,38,Bachelor's,Analyst,224518.0
+59,Female,40,PhD,Manager,354371.0
+40,Male,20,Diploma,Web Developer,99297.0
+29,Female,10,PhD,Team Lead,169185.0
+22,Male,2,Bachelor's,Manager,102864.0
+43,Female,21,Master's,Web Developer,148531.0
+38,Female,16,Bachelor's,Sales Executive,97686.0
+28,Male,10,Master's,Team Lead,124875.0
+46,Male,23,PhD,Sales Executive,165956.0
+25,Male,5,Bachelor's,Team Lead,75174.0
+57,Male,36,PhD,Sales Executive,220390.0
+27,Female,9,Bachelor's,Manager,122878.0
+52,Male,32,Bachelor's,HR,181561.0
+40,Female,20,Bachelor's,Team Lead,144111.0
+48,Male,30,Bachelor's,Team Lead,214132.0
+31,Female,9,Diploma,Sales Executive,43060.0
+47,Female,27,Bachelor's,Web Developer,174571.0
+40,Female,18,Bachelor's,Team Lead,134282.0
+24,Female,6,Master's,Sales Executive,63064.0
+34,Female,12,Master's,Data Scientist,128123.0
+49,Female,30,Bachelor's,Sales Executive,152620.0
+41,Male,20,Bachelor's,Manager,156053.0
+49,Female,25,Bachelor's,HR,146408.0
+29,Male,9,Diploma,Data Scientist,70158.0
+22,Male,0,High School,Manager,43715.0
+24,Female,3,Bachelor's,Manager,88897.0
+34,Male,10,Bachelor's,Manager,119178.0
+49,Female,27,PhD,Web Developer,190408.0
+46,Male,26,Bachelor's,Manager,181883.0
+54,Female,32,Bachelor's,Web Developer,190707.0
+59,Male,40,Bachelor's,Manager,276078.0
+27,Female,9,Diploma,Analyst,49772.0
+53,Female,33,Bachelor's,Data Scientist,191757.0
+42,Female,18,Bachelor's,Analyst,130269.0
+37,Female,13,Bachelor's,Manager,120354.0
+42,Male,23,Bachelor's,Data Scientist,158795.0
+32,Female,13,PhD,Data Scientist,183739.0
+58,Male,38,Master's,Team Lead,252427.0
+57,Male,35,Bachelor's,HR,180382.0
+56,Male,33,Bachelor's,Analyst,189894.0
+40,Female,16,Bachelor's,HR,100428.0
+41,Male,17,Diploma,Data Scientist,104677.0
+39,Male,20,Bachelor's,Web Developer,125765.0
+35,Male,14,High School,Data Scientist,85203.0
+36,Female,17,Bachelor's,HR,106050.0
+52,Female,29,Bachelor's,Analyst,172807.0
+22,Male,0,Diploma,Manager,56552.0
+24,Female,2,PhD,Team Lead,157254.0
+37,Female,16,PhD,Team Lead,215276.0
+44,Male,20,Master's,Team Lead,181091.0
+32,Male,13,Bachelor's,Manager,137735.0
+33,Female,11,Master's,Team Lead,120731.0
+31,Male,8,Diploma,Analyst,50714.0
+53,Female,33,Master's,Manager,265785.0
+37,Female,19,Diploma,Team Lead,108301.0
+29,Female,11,Master's,Manager,150495.0
+59,Female,41,Bachelor's,HR,230075.0
+33,Female,9,Master's,Analyst,96262.0
+45,Female,26,PhD,Sales Executive,175224.0
+49,Male,28,Diploma,Web Developer,146514.0
+29,Male,7,Bachelor's,Team Lead,87736.0
+49,Female,29,PhD,Web Developer,204066.0
+57,Female,34,Bachelor's,Manager,250653.0
+47,Female,27,Master's,Web Developer,188849.0
+29,Male,6,Bachelor's,Analyst,67904.0
+49,Female,25,Bachelor's,Analyst,157788.0
+49,Male,30,Bachelor's,Data Scientist,197565.0
+58,Female,40,Diploma,Team Lead,205666.0
+57,Female,38,Master's,Data Scientist,256575.0
+48,Male,24,Bachelor's,Web Developer,130696.0
+38,Male,17,Bachelor's,Sales Executive,107923.0
+30,Female,9,Bachelor's,Data Scientist,83016.0
+54,Female,30,Bachelor's,Data Scientist,182563.0
+41,Female,18,Master's,Analyst,152083.0
+34,Male,12,PhD,Sales Executive,122583.0
+49,Male,27,Bachelor's,Manager,218049.0
+50,Male,27,Master's,Web Developer,159606.0
+34,Male,13,Master's,Data Scientist,124008.0
+56,Male,35,Bachelor's,Sales Executive,186932.0
+27,Male,6,PhD,Team Lead,151924.0
+39,Female,20,Diploma,Sales Executive,90369.0
+26,Female,5,Diploma,Web Developer,37929.0
+46,Male,26,Master's,Sales Executive,176081.0
+23,Female,5,Bachelor's,Sales Executive,44555.0
+31,Female,10,Master's,Sales Executive,80444.0
+51,Male,28,Master's,Team Lead,229835.0
+26,Female,8,High School,Data Scientist,47587.0
+54,Male,35,Master's,Web Developer,226852.0
+22,Male,0,Bachelor's,Team Lead,66417.0
+39,Female,21,Bachelor's,Sales Executive,109558.0
+53,Male,30,Bachelor's,Sales Executive,172947.0
+32,Male,13,PhD,Data Scientist,168550.0
+42,Male,22,High School,Web Developer,119989.0
+47,Male,28,Bachelor's,Analyst,158654.0
+46,Male,27,Master's,Team Lead,221795.0
+43,Male,20,Master's,Data Scientist,171751.0
+48,Male,24,Master's,Web Developer,149801.0
+34,Male,12,Diploma,Team Lead,73018.0
+54,Female,33,Bachelor's,Sales Executive,186192.0
+55,Female,34,Bachelor's,Web Developer,207654.0
+56,Female,36,Master's,Web Developer,241339.0
+22,Male,2,Bachelor's,Manager,94294.0
+42,Male,21,Diploma,Web Developer,117536.0
+27,Female,5,PhD,Analyst,121278.0
+49,Female,28,High School,Web Developer,146407.0
+38,Female,14,PhD,Analyst,153160.0
+26,Male,4,Master's,Sales Executive,60739.0
+52,Female,32,Master's,Analyst,227090.0
+26,Female,8,Bachelor's,Team Lead,89034.0
+59,Male,36,High School,Sales Executive,189129.0
+24,Female,0,Master's,Sales Executive,52270.0
+44,Male,20,Master's,Analyst,140239.0
+58,Male,38,Master's,Data Scientist,241622.0
+58,Male,38,Diploma,HR,189843.0
+31,Female,12,Master's,Web Developer,101246.0
+31,Female,7,Master's,Manager,160637.0
+40,Male,21,Master's,HR,127133.0
+38,Female,19,Master's,Web Developer,145334.0
+42,Female,19,Master's,Web Developer,147150.0
+35,Female,16,Bachelor's,Sales Executive,86202.0
+30,Female,8,High School,Web Developer,42906.0
+22,Male,1,Bachelor's,Manager,102757.0
+34,Female,16,High School,Web Developer,81089.0
+25,Male,5,Bachelor's,Analyst,64505.0
+22,Male,0,Bachelor's,HR,41356.0
+53,Female,35,High School,Analyst,182978.0
+55,Male,31,Bachelor's,Manager,218005.0
+49,Female,25,Diploma,Web Developer,141232.0
+52,Female,28,Master's,Team Lead,228057.0
+29,Male,7,PhD,Manager,215275.0
+47,Male,25,High School,Sales Executive,114156.0
+55,Male,35,PhD,Analyst,276839.0
+24,Male,3,Bachelor's,Analyst,49768.0
+33,Female,14,Bachelor's,Data Scientist,124101.0
+22,Female,0,High School,Web Developer,18932.0
+26,Female,3,Bachelor's,Sales Executive,36887.0
+51,Male,30,Master's,Team Lead,230223.0
+51,Male,28,Master's,Analyst,173872.0
+38,Male,18,High School,Analyst,94122.0
+44,Female,24,High School,Sales Executive,125048.0
+36,Male,16,Bachelor's,Manager,159887.0
+58,Female,40,Bachelor's,Manager,252439.0
+42,Male,19,Diploma,Web Developer,92665.0
+35,Female,14,Bachelor's,Data Scientist,121431.0
+23,Female,2,Master's,Analyst,82280.0
+32,Male,10,PhD,Data Scientist,166563.0
+59,Male,37,Bachelor's,Manager,258384.0
+55,Female,31,PhD,Manager,317506.0
+59,Female,37,Bachelor's,HR,221404.0
+55,Male,35,Bachelor's,Team Lead,234205.0
+39,Male,18,Diploma,Web Developer,91146.0
+51,Female,28,Bachelor's,HR,150853.0
+36,Male,16,PhD,Team Lead,225213.0
+48,Female,30,Bachelor's,HR,150679.0
+55,Female,33,Bachelor's,HR,176676.0
+59,Male,39,Bachelor's,Web Developer,223541.0
+54,Male,34,Diploma,Web Developer,165328.0
+45,Male,27,Master's,Sales Executive,151852.0
+36,Male,17,Bachelor's,Data Scientist,138115.0
+51,Male,30,Bachelor's,Data Scientist,213523.0
+38,Female,15,Bachelor's,Sales Executive,93896.0
+26,Female,2,Bachelor's,Sales Executive,41726.0
+50,Male,31,High School,Manager,178892.0
+25,Male,3,Master's,Team Lead,114307.0
+31,Male,11,Diploma,HR,53768.0
+38,Female,20,Master's,Sales Executive,134357.0
+31,Male,13,Master's,Analyst,126345.0
+38,Male,17,Master's,Data Scientist,150182.0
+41,Female,22,Bachelor's,Sales Executive,121385.0
+45,Female,21,Bachelor's,Analyst,133076.0
+26,Male,5,Diploma,Analyst,38895.0
+55,Male,35,Master's,Analyst,208617.0
+27,Male,6,Bachelor's,Manager,112923.0
+23,Female,0,Bachelor's,Manager,100751.0
+34,Male,16,Bachelor's,Analyst,105471.0
+32,Male,14,Diploma,Team Lead,83537.0
+44,Male,22,Bachelor's,Manager,163867.0
+37,Female,15,High School,HR,75110.0
+52,Female,28,Master's,Analyst,191030.0
+32,Male,12,Bachelor's,HR,71529.0
+37,Male,14,High School,HR,63848.0
+29,Female,10,Bachelor's,Analyst,73502.0
+25,Female,4,High School,Data Scientist,37664.0
+25,Female,1,Bachelor's,Team Lead,77778.0
+46,Female,26,Master's,Analyst,185660.0
+24,Female,2,High School,Analyst,26637.0
+53,Female,32,Master's,Manager,265791.0
+24,Female,2,High School,Analyst,26875.0
+48,Female,27,Diploma,Data Scientist,162037.0
+50,Female,31,Master's,Manager,246822.0
+53,Male,33,Bachelor's,Web Developer,192717.0
+40,Male,19,Diploma,Web Developer,95442.0
+42,Male,19,Bachelor's,HR,117885.0
+26,Female,2,Bachelor's,Team Lead,72683.0
+39,Male,21,Master's,HR,152450.0
+49,Female,26,Bachelor's,Data Scientist,161084.0
+43,Female,20,Master's,Sales Executive,137489.0
+42,Male,18,Master's,Team Lead,176935.0
+27,Female,9,Bachelor's,Web Developer,70876.0
+22,Male,0,PhD,HR,76321.0
+26,Male,5,Bachelor's,Web Developer,54508.0
+33,Male,12,PhD,Data Scientist,189547.0
+47,Female,26,High School,Data Scientist,131770.0
+55,Male,37,Master's,Sales Executive,205547.0
+35,Female,12,Bachelor's,Sales Executive,73061.0
+47,Male,29,Bachelor's,Manager,217921.0
+48,Male,27,Bachelor's,Team Lead,177089.0
+30,Male,6,Master's,Data Scientist,105830.0
+47,Female,24,High School,HR,110709.0
+43,Female,20,Diploma,Web Developer,111898.0
+51,Female,29,Master's,Analyst,204057.0
+38,Male,16,Master's,Sales Executive,116656.0
+47,Male,28,PhD,Analyst,248951.0
+57,Female,37,Master's,HR,219999.0
+22,Female,0,PhD,Sales Executive,68253.0
+29,Female,11,Master's,Analyst,94152.0
+56,Female,34,Bachelor's,Team Lead,212442.0
+36,Female,17,Diploma,HR,94218.0
+43,Female,20,Master's,Web Developer,142553.0
+35,Male,16,Bachelor's,Team Lead,122239.0
+47,Female,24,High School,HR,113690.0
+49,Male,25,Bachelor's,Manager,200129.0
+44,Male,20,PhD,Sales Executive,158632.0
+35,Female,12,Bachelor's,Data Scientist,95904.0
+45,Female,25,Bachelor's,Web Developer,163155.0
+23,Male,1,Bachelor's,Team Lead,72965.0
+47,Female,29,Diploma,Team Lead,156456.0
+35,Female,17,Bachelor's,Analyst,122236.0
+28,Male,7,Bachelor's,Sales Executive,47794.0
+24,Male,1,High School,Data Scientist,34230.0
+44,Male,26,Master's,HR,181236.0
+39,Female,19,Bachelor's,Data Scientist,145811.0
+59,Male,36,Master's,Sales Executive,225177.0
+56,Female,36,Master's,Sales Executive,205662.0
+36,Male,18,Diploma,Manager,137026.0
+46,Male,28,Master's,Manager,254413.0
+58,Male,37,Bachelor's,Data Scientist,244958.0
+49,Female,31,Master's,HR,207055.0
+31,Female,8,Diploma,Data Scientist,68100.0
+38,Male,14,Master's,Sales Executive,105541.0
+43,Male,20,Bachelor's,Sales Executive,109135.0
+47,Male,24,Bachelor's,Analyst,163969.0
+46,Female,25,Diploma,Manager,166103.0
+38,Male,17,Master's,Analyst,147630.0
+34,Female,16,Master's,Web Developer,125566.0
+41,Male,22,Bachelor's,Sales Executive,119212.0
+46,Male,27,Bachelor's,Analyst,160308.0
+25,Male,4,Bachelor's,Data Scientist,75154.0
+31,Male,13,Master's,Manager,185549.0
+24,Male,5,Diploma,Manager,65497.0
+39,Male,21,Master's,HR,140336.0
+57,Female,39,Bachelor's,Data Scientist,235916.0
+43,Male,25,Bachelor's,HR,151443.0
+55,Female,33,High School,Analyst,167397.0
+29,Male,6,Diploma,Team Lead,53025.0
+40,Male,22,Bachelor's,Web Developer,123233.0
+58,Female,36,Bachelor's,Data Scientist,207086.0
+27,Male,6,Master's,Data Scientist,110536.0
+47,Female,28,High School,Data Scientist,137575.0
+55,Female,32,Bachelor's,HR,163802.0
+27,Male,3,Bachelor's,Analyst,59694.0
+58,Female,39,High School,Data Scientist,223611.0
+54,Female,31,Diploma,Team Lead,178096.0
+43,Male,19,Bachelor's,Data Scientist,154255.0
+42,Female,23,Bachelor's,Manager,166012.0
+27,Male,4,Bachelor's,Web Developer,52721.0
+27,Male,8,Bachelor's,Manager,114554.0
+25,Male,6,Bachelor's,Manager,104610.0
+51,Male,27,High School,Web Developer,131642.0
+32,Female,13,Bachelor's,Team Lead,111775.0
+51,Male,32,PhD,Analyst,242557.0
+52,Male,28,Bachelor's,Manager,221959.0
+45,Female,24,Master's,Analyst,158459.0
+30,Male,12,Bachelor's,Manager,120225.0
+24,Male,4,Master's,Sales Executive,55080.0
+52,Female,30,Master's,Web Developer,184115.0
+58,Female,38,Bachelor's,Manager,265049.0
+57,Female,37,PhD,Sales Executive,222152.0
+45,Female,22,Diploma,HR,121068.0
+52,Female,34,High School,Sales Executive,160063.0
+27,Female,4,Master's,Data Scientist,96866.0
+23,Female,5,Master's,Manager,148960.0
+41,Male,17,Diploma,Sales Executive,76712.0
+49,Female,25,Bachelor's,Analyst,158359.0
+32,Female,14,High School,HR,66858.0
+25,Female,6,Bachelor's,Team Lead,79648.0
+36,Male,15,Master's,Manager,167277.0
+27,Male,8,Bachelor's,Data Scientist,84335.0
+51,Female,30,Bachelor's,Team Lead,184152.0
+59,Female,36,Bachelor's,Sales Executive,181091.0
+23,Female,2,High School,Team Lead,33127.0
+36,Male,13,Bachelor's,Team Lead,107958.0
+32,Male,8,Bachelor's,HR,58086.0
+29,Female,9,PhD,Team Lead,180234.0
+47,Male,23,Master's,Team Lead,200523.0
+26,Female,2,High School,Manager,41008.0
+27,Male,7,Master's,HR,66492.0
+47,Male,26,Master's,Data Scientist,222756.0
+25,Female,4,Master's,Sales Executive,59801.0
+40,Female,17,Bachelor's,HR,108214.0
+41,Female,22,Bachelor's,HR,122926.0
+54,Female,31,Bachelor's,Web Developer,183741.0
+41,Male,22,High School,HR,106297.0
+33,Male,9,Diploma,Web Developer,48760.0
+22,Male,2,Diploma,Sales Executive,25059.0
+47,Female,23,Bachelor's,Team Lead,164927.0
+35,Male,17,Master's,Manager,183241.0
+59,Female,38,Bachelor's,Manager,253323.0
+58,Male,39,High School,Sales Executive,205144.0
+32,Female,9,PhD,Sales Executive,107207.0
+57,Female,37,PhD,Analyst,264903.0
+34,Male,15,Master's,Team Lead,148732.0
+24,Female,1,PhD,Sales Executive,71755.0
+54,Female,33,Bachelor's,HR,190491.0
+27,Male,3,PhD,Manager,191707.0
+31,Female,10,High School,Data Scientist,62299.0
+26,Female,4,Bachelor's,Manager,95658.0
+44,Female,26,Diploma,Web Developer,133952.0
+31,Male,9,Diploma,Manager,82362.0
+23,Male,3,Diploma,Analyst,38170.0
+34,Female,15,Bachelor's,Team Lead,122445.0
+23,Male,3,Master's,Sales Executive,55037.0
+41,Female,17,Bachelor's,Team Lead,147652.0
+22,Female,0,Diploma,Sales Executive,19812.0
+58,Female,37,Master's,Manager,324664.0
+30,Female,8,Bachelor's,Data Scientist,80395.0
+38,Female,16,Bachelor's,Data Scientist,131797.0
+30,Male,6,Master's,Analyst,88580.0
+32,Female,10,Bachelor's,Web Developer,67851.0
+36,Male,12,Bachelor's,Manager,138598.0
+45,Male,25,PhD,Sales Executive,161148.0
+59,Female,38,Bachelor's,Manager,248398.0
+56,Female,37,Bachelor's,Analyst,219908.0
+51,Male,28,Master's,HR,168931.0
+52,Male,33,Master's,HR,205087.0
+26,Male,6,High School,Analyst,32829.0
+35,Female,12,Diploma,Sales Executive,54231.0
+32,Male,10,High School,Team Lead,53742.0
+30,Female,12,Bachelor's,Analyst,81132.0
+55,Female,35,Bachelor's,Sales Executive,190229.0
+33,Female,13,Diploma,Data Scientist,88185.0
+56,Male,35,PhD,Analyst,285128.0
+56,Female,37,Bachelor's,Sales Executive,216631.0
+22,Female,2,Diploma,Analyst,32119.0
+43,Female,23,Bachelor's,Analyst,142247.0
+50,Female,28,Master's,Team Lead,208506.0
+29,Female,7,High School,Team Lead,46543.0
+32,Male,9,Bachelor's,Sales Executive,58804.0
+58,Female,34,Master's,Sales Executive,184083.0
+35,Female,11,Bachelor's,Web Developer,70905.0
+51,Male,33,Bachelor's,Analyst,214095.0
+56,Female,32,Bachelor's,HR,177082.0
+42,Male,21,High School,Analyst,104957.0
+58,Female,40,Diploma,Analyst,191774.0
+26,Male,3,Bachelor's,Sales Executive,37900.0
+40,Male,18,Diploma,Analyst,107016.0
+35,Female,11,High School,Manager,67732.0
+47,Female,28,Master's,Analyst,189048.0
+25,Female,3,PhD,Manager,178699.0
+46,Male,25,Master's,Team Lead,206115.0
+46,Male,24,Master's,HR,138044.0
+39,Male,18,Diploma,Sales Executive,96320.0
+29,Female,8,PhD,Analyst,135043.0
+35,Male,14,Diploma,Manager,110882.0
+53,Male,30,PhD,Manager,310106.0
+59,Female,38,PhD,Team Lead,345400.0
+54,Male,33,Master's,Manager,281360.0
+44,Male,25,PhD,Data Scientist,239394.0
+36,Female,18,Bachelor's,Web Developer,114764.0
+54,Male,34,Bachelor's,HR,169288.0
+46,Female,28,Bachelor's,Team Lead,176426.0
+38,Female,17,Bachelor's,Team Lead,140490.0
+54,Female,35,High School,Analyst,169297.0
+23,Female,1,Bachelor's,Data Scientist,69532.0
+35,Female,16,PhD,Analyst,159819.0
+27,Male,6,Diploma,Analyst,48635.0
+27,Male,8,Master's,Sales Executive,78400.0
+24,Female,0,PhD,Sales Executive,81237.0
+28,Female,9,PhD,Sales Executive,93759.0
+29,Male,8,PhD,Data Scientist,151257.0
+36,Female,13,Bachelor's,Analyst,91542.0
+50,Female,26,PhD,Web Developer,181432.0
+54,Female,35,Master's,HR,189662.0
+51,Male,31,Diploma,Sales Executive,159599.0
+48,Male,28,Bachelor's,Sales Executive,156153.0
+57,Female,38,Master's,Team Lead,303400.0
+50,Female,27,Diploma,Analyst,136904.0
+59,Male,37,Bachelor's,Analyst,205744.0
+54,Male,33,Master's,Data Scientist,222797.0
+58,Female,38,Diploma,Data Scientist,232597.0
+48,Female,26,Bachelor's,Sales Executive,153606.0
+54,Male,35,Master's,Analyst,244512.0
+25,Male,3,Bachelor's,Web Developer,52480.0
+43,Male,19,High School,HR,90643.0
+23,Female,5,High School,Analyst,33039.0
+31,Male,11,Bachelor's,Team Lead,98765.0
+26,Female,7,PhD,Analyst,125566.0
+31,Male,10,Diploma,Manager,82910.0
+54,Male,31,Bachelor's,Data Scientist,200207.0
+59,Male,35,Diploma,Team Lead,219272.0
+34,Male,15,Bachelor's,HR,99171.0
+52,Female,31,Master's,Sales Executive,198720.0
+57,Female,34,Master's,Team Lead,267652.0
+45,Male,22,High School,Analyst,115638.0
+36,Female,17,Bachelor's,Sales Executive,91338.0
+50,Male,26,High School,Analyst,119856.0
+29,Male,7,Bachelor's,Sales Executive,54639.0
+26,Male,4,Master's,HR,65093.0
+50,Male,27,Diploma,Data Scientist,141520.0
+25,Female,3,Bachelor's,HR,45934.0
+33,Male,15,Bachelor's,Manager,131582.0
+23,Male,0,PhD,Web Developer,88616.0
+48,Female,25,PhD,Data Scientist,254929.0
+52,Male,31,High School,HR,141913.0
+57,Male,35,Master's,Manager,262023.0
+57,Male,33,Bachelor's,Web Developer,183021.0
+47,Female,24,Bachelor's,Manager,201577.0
+48,Male,24,Master's,Analyst,168569.0
+26,Female,8,PhD,Analyst,130449.0
+41,Male,20,PhD,Sales Executive,156248.0
+32,Male,13,Bachelor's,Data Scientist,97696.0
+31,Female,7,Bachelor's,Analyst,74012.0
+59,Male,36,Master's,Team Lead,238629.0
+27,Male,9,Bachelor's,Manager,126292.0
+29,Female,9,Bachelor's,Data Scientist,90909.0
+44,Female,26,Bachelor's,Team Lead,198119.0
+47,Female,29,Master's,Analyst,181592.0
+33,Female,12,Diploma,Sales Executive,58900.0
+47,Female,28,Diploma,HR,133486.0
+34,Male,14,PhD,Sales Executive,110828.0
+39,Female,17,Diploma,Team Lead,109783.0
+46,Male,24,Bachelor's,Web Developer,134160.0
+54,Male,30,Diploma,Analyst,164720.0
+33,Male,15,High School,Team Lead,77428.0
+57,Female,36,High School,Web Developer,174930.0
+25,Female,4,Diploma,Web Developer,37191.0
+26,Male,4,Master's,Manager,138633.0
+58,Female,34,Bachelor's,Data Scientist,223768.0
+29,Female,5,PhD,Manager,211807.0
+49,Female,25,Bachelor's,Analyst,165670.0
+52,Female,32,Bachelor's,Web Developer,177763.0
+30,Male,11,Bachelor's,Team Lead,106499.0
+50,Male,30,Bachelor's,HR,184361.0
+35,Female,12,Master's,Web Developer,105139.0
+43,Male,20,Bachelor's,Team Lead,148920.0
+32,Female,13,Bachelor's,HR,81760.0
+44,Female,22,Master's,Manager,232861.0
+22,Male,3,PhD,Manager,203890.0
+58,Male,37,Master's,Data Scientist,236498.0
+42,Male,19,Bachelor's,Team Lead,134740.0
+47,Female,29,Master's,Web Developer,201046.0
+57,Male,39,Bachelor's,Sales Executive,202452.0
+44,Female,22,Bachelor's,Manager,189279.0
+22,Male,1,Diploma,Manager,57170.0
+36,Male,16,Bachelor's,Data Scientist,124855.0
+42,Female,21,Diploma,HR,97330.0
+30,Female,12,Bachelor's,Data Scientist,96502.0
+30,Female,12,Master's,Web Developer,109952.0
+31,Female,8,Diploma,Team Lead,69801.0
+47,Female,26,High School,Analyst,136442.0
+56,Female,35,High School,Analyst,177456.0
+46,Female,28,PhD,Team Lead,280454.0
+47,Female,27,Bachelor's,HR,156183.0
+32,Male,10,Bachelor's,Manager,119752.0
+59,Female,35,Master's,HR,191150.0
+23,Female,1,Master's,Manager,138036.0
+28,Male,7,Bachelor's,Manager,114862.0
+39,Female,17,Master's,Analyst,149446.0
+48,Male,30,Master's,HR,165694.0
+55,Male,37,Master's,Data Scientist,276259.0
+48,Female,27,Diploma,Manager,174734.0
+38,Male,17,Master's,Sales Executive,112599.0
+45,Female,21,Bachelor's,Sales Executive,109698.0
+46,Male,22,Bachelor's,Data Scientist,152490.0
+28,Male,5,Bachelor's,Sales Executive,44854.0
+27,Male,6,High School,Web Developer,32291.0
+45,Female,25,Diploma,Manager,169618.0
+54,Female,32,Master's,Data Scientist,247514.0
+50,Male,29,High School,HR,144845.0
+43,Male,24,Bachelor's,Manager,208549.0
+47,Female,24,Bachelor's,Data Scientist,160611.0
+49,Female,30,High School,Analyst,144693.0
+42,Male,24,PhD,HR,184779.0
+28,Male,4,Diploma,Analyst,36515.0
+38,Female,16,Bachelor's,Manager,143400.0
+41,Female,20,Bachelor's,HR,109204.0
+41,Female,22,Diploma,Sales Executive,100902.0
+43,Female,21,High School,Data Scientist,121547.0
+49,Female,31,Master's,Manager,254486.0
+28,Male,4,PhD,Web Developer,100046.0
+22,Female,2,Diploma,HR,23958.0
+53,Male,30,Master's,HR,192601.0
+34,Female,12,Master's,Team Lead,134465.0
+51,Male,29,Master's,Manager,271382.0
+44,Female,24,Bachelor's,Manager,187304.0
+40,Female,18,Bachelor's,Analyst,110443.0
+53,Male,35,Bachelor's,Team Lead,227873.0

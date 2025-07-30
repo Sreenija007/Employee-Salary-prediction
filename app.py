@@ -12,7 +12,7 @@ warnings.filterwarnings('ignore')
 
 st.set_page_config(
     page_title="Employee Salary Predictor",
-    page_icon="💰",
+    page_icon="$",
     layout="wide"
 )
 
@@ -201,7 +201,7 @@ with tabs[1]:
 
 # ----- PREDICTION TAB -----
 with tabs[2]:
-    st.header("🔢 Salary Prediction (Monthly)")
+    st.header("🔮 Salary Prediction (Monthly)")
     df = st.session_state.get('df', None)
     if df is None:
         st.warning("Dataset not loaded. Please check the Overview tab.")
